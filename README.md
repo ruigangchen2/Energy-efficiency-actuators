@@ -6,8 +6,7 @@ The proposed actuator concept video explains the background, idea, and the entir
 working process, showing the prototype and mainly demonstrating how the
 proposed actuator recycles energy and utilizes passive dynamics.
 ## Data S1 (separate file).
-Data for the FOC-driven BLDC characterization shown in Fig. 1A of the main text
-and fig. S6 of the supplementary material.
+Data for the FOC-driven BLDC characterization shown in Fig. 1A of the main text.
 ## Data S2 (separate file).
 Data for the proposed actuator characterization shown in Fig. 1B of the main text.
 ## Data S3 (separate file).
