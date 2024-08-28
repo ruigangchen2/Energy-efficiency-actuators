@@ -10,8 +10,7 @@ Data for the FOC-driven BLDC characterization shown in Fig. 1A of the main text.
 ## Data S2 (separate file).
 Data for the proposed actuator characterization shown in Fig. 1B of the main text.
 ## Data S3 (separate file).
-Data for the working phase of the proposed actuator shown in Fig. 4 of the main text
-and fig. S9 of the supplementary material.
+Data for the working phase of the proposed actuator shown in Fig. 4 of the main text.
 ## Data S4 (separate file).
 Data for the system repeatability test shown in Fig. 6A of the main text.
 ## Data S5 (separate file).
